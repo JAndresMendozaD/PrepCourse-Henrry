@@ -1,2 +1,5 @@
 # PrepCourse-Henrry
-Este es un repositirio de prueba del modulo 2 del prep curse de henrry
+Andres Mendoza
+
+este proyecto es una prueba de como crear un repositorio y clonarlo a mi pc
+
